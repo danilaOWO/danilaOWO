@@ -2,5 +2,5 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-  <img src="https://tenor.com/ru/view/psychopomp-pompy-gif-13800874056199484137" width="400" alt="Psychopomp Pompy">
+  <img src="https://media.giphy.com/media/13800874056199484137/giphy.gif" width="400" alt="Psychopomp Pompy">
 
