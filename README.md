@@ -3,4 +3,4 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 <p align="center">
   <img src="https://media1.tenor.com/m/v4aN1X2ssukAAAAC/psychopomp-pompy.gif" width="400" alt="Psychopomp Pompy">
-  <\p>
+</p>
