@@ -4,7 +4,7 @@
 <div class="tenor-gif-embed" data-postid="13800874056199484137" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/psychopomp-pompy-gif-13800874056199484137">
 <div style="text-align: center; margin: 20px;">
     <img 
-        src="https://tenor.com/view/psychopomp-pompy-gif-13800874056199484137"
+        src="https://tenor.com/ru/view/psychopomp-pompy-gif-13800874056199484137"
         alt="Центрированная гифка"
         style="max-width: 100%; height: auto;"
     >
